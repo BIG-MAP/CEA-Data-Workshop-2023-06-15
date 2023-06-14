@@ -1,0 +1,8 @@
+{
+    "@context": "https://json-ld.org/contexts/person.jsonld",
+    "@id": "[YOUR ORCID]",
+    "givenName": "[YOUR GIVEN NAME]",
+    "familyName": "[YOUR LAST NAME]",
+    "image": "[A URL TO YOUR IMAGE]",
+    "affiliation": "[YOUR ORGANIZATION RORID]"
+}
