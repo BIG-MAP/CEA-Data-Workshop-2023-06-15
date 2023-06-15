@@ -1,8 +1,10 @@
 {
-    "@context": "https://json-ld.org/contexts/person.jsonld",
+    "@context": "http://schema.org/",
+    "@type": "Person",
     "@id": "https://orcid.org/0000-0002-8758-6109",
-    "givenName": "Simon",
-    "familyName": "Clark",
+    "name": "Simon Clark",
+    "gender": {"@id": "schema:Male"},
+    "birthdate": "1987-04-23",
     "image": "https://www.sintef.no/contentassets/c028f84027bb4a4bbded3675beaef2b0/simon.clark-sintef.no.jpg",
     "affiliation": "https://ror.org/01f677e56"
 }

@@ -1,3 +1,4 @@
 rdflib
 streamlit
+streamlit_agraph
 pyngrok
